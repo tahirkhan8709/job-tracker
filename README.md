@@ -15,6 +15,9 @@ Password: demo12345
 
 ## Screenshots
 
+![Kanban board](docs/board.png)
+
+![Card details with notes and timeline](docs/details.png)
 <!-- Add your screenshots/GIF here, for example: -->
 <!-- ![Kanban board](docs/board.png) -->
 <!-- ![Drag and drop](docs/drag-and-drop.gif) -->
